@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<pages>
+    <page name='Introduction'/>
+        <page name='if and switch expressions'/>
+        <page name='Value and Type Parameter Packs'/>
+        <page name='Macros'/>
+        <page name='Noncopyable structs and enums'/>
+        <page name='consume operator to end the lifetime of a variable binding'/>
+        <page name='Convenience Async[Throwing]Stream.makeStream methods'/>
+        <page name='Add sleep(for) to Clock'/>
+        <page name='Discarding task groups'/>
+    </pages>
+</playground>
